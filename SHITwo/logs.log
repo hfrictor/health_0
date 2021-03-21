@@ -1,0 +1,122 @@
+2021-02-27 18:40:03,943 - __main__ - INFO - Registering GATT application...
+2021-02-27 18:40:03,982 - __main__ - INFO - GATT application registered
+2021-02-27 18:40:03,987 - __main__ - INFO - Advertisement registered
+2021-02-28 10:32:48,340 - __main__ - INFO - Registering GATT application...
+2021-02-28 10:32:48,375 - __main__ - INFO - GATT application registered
+2021-02-28 10:32:48,381 - __main__ - INFO - Advertisement registered
+2021-02-28 10:33:00,564 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-02-28 10:33:00,711 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-02-28 10:35:03,183 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-02-28 10:35:03,215 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-02-28 10:35:03,245 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-02-28 10:35:03,274 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-02-28 10:37:14,025 - __main__ - INFO - Registering GATT application...
+2021-02-28 10:37:14,046 - __main__ - INFO - GATT application registered
+2021-02-28 10:37:14,050 - __main__ - INFO - Advertisement registered
+2021-02-28 10:37:17,704 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-02-28 10:37:17,906 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-02-28 14:42:22,842 - __main__ - INFO - Registering GATT application...
+2021-02-28 14:42:22,861 - __main__ - INFO - GATT application registered
+2021-02-28 14:42:22,865 - __main__ - INFO - Advertisement registered
+2021-02-28 14:42:39,207 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-02-28 14:42:39,385 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-02-28 14:44:55,074 - __main__ - INFO - Registering GATT application...
+2021-02-28 14:44:55,090 - __main__ - INFO - GATT application registered
+2021-02-28 14:44:55,092 - __main__ - INFO - Advertisement registered
+2021-02-28 14:45:18,598 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-02-28 14:45:18,748 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-02-28 14:46:11,980 - __main__ - INFO - Registering GATT application...
+2021-02-28 14:46:11,999 - __main__ - INFO - GATT application registered
+2021-02-28 14:46:12,003 - __main__ - INFO - Advertisement registered
+2021-02-28 14:46:25,261 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-02-28 14:46:25,404 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-01 16:29:19,225 - __main__ - INFO - Registering GATT application...
+2021-03-01 16:29:19,249 - __main__ - INFO - GATT application registered
+2021-03-01 16:29:19,254 - __main__ - INFO - Advertisement registered
+2021-03-01 16:32:06,934 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-01 16:32:07,102 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-01 16:36:06,875 - __main__ - INFO - Registering GATT application...
+2021-03-01 16:36:06,897 - __main__ - INFO - GATT application registered
+2021-03-01 16:36:06,901 - __main__ - INFO - Advertisement registered
+2021-03-01 16:36:14,283 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-01 16:36:14,480 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-02 04:20:31,653 - __main__ - INFO - Registering GATT application...
+2021-03-02 04:20:31,672 - __main__ - INFO - GATT application registered
+2021-03-02 04:20:31,677 - __main__ - INFO - Advertisement registered
+2021-03-02 04:20:45,447 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-02 04:20:45,618 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-02 04:22:34,651 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-02 05:13:37,706 - __main__ - INFO - Registering GATT application...
+2021-03-02 05:13:37,729 - __main__ - INFO - GATT application registered
+2021-03-02 05:13:37,732 - __main__ - INFO - Advertisement registered
+2021-03-02 05:13:55,830 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-02 05:13:56,032 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-02 05:15:43,798 - __main__ - INFO - Registering GATT application...
+2021-03-02 05:15:43,814 - __main__ - INFO - GATT application registered
+2021-03-02 05:15:43,817 - __main__ - INFO - Advertisement registered
+2021-03-02 05:16:07,350 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-02 05:16:07,491 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-02 05:16:21,180 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-02 05:16:21,321 - __main__ - INFO -  read: 'wlan0     IEEE 802.11  ESSID:off/any  \n'
+2021-03-02 05:22:21,382 - __main__ - INFO - Registering GATT application...
+2021-03-02 05:22:21,398 - __main__ - INFO - GATT application registered
+2021-03-02 05:22:21,401 - __main__ - INFO - Advertisement registered
+2021-03-02 05:22:25,641 - __main__ - INFO -  read: []
+2021-03-02 05:22:25,761 - __main__ - INFO -  read: []
+2021-03-02 09:37:36,361 - __main__ - INFO - Registering GATT application...
+2021-03-02 09:37:36,378 - __main__ - INFO - GATT application registered
+2021-03-02 09:37:36,381 - __main__ - INFO - Advertisement registered
+2021-03-02 09:38:13,204 - __main__ - INFO -  read: []
+2021-03-02 09:38:13,327 - __main__ - INFO -  read: []
+2021-03-02 09:39:11,315 - __main__ - INFO -  read: []
+2021-03-02 09:39:15,875 - __main__ - INFO -  read: []
+2021-03-02 09:47:49,899 - __main__ - INFO -  read: []
+2021-03-02 09:47:50,019 - __main__ - INFO -  read: []
+2021-03-02 09:48:23,259 - __main__ - INFO -  read: []
+2021-03-02 09:48:23,379 - __main__ - INFO -  read: []
+2021-03-02 09:49:06,879 - __main__ - INFO -  read: []
+2021-03-02 09:49:07,000 - __main__ - INFO -  read: []
+2021-03-02 09:50:24,250 - __main__ - INFO -  read: []
+2021-03-02 09:51:13,423 - __main__ - INFO - Registering GATT application...
+2021-03-02 09:51:13,443 - __main__ - INFO - GATT application registered
+2021-03-02 09:51:13,445 - __main__ - INFO - Advertisement registered
+2021-03-02 09:51:21,520 - __main__ - INFO -  read: []
+2021-03-02 09:51:21,640 - __main__ - INFO -  read: []
+2021-03-06 15:02:30,596 - __main__ - INFO - Registering GATT application...
+2021-03-06 15:02:30,626 - __main__ - INFO - GATT application registered
+2021-03-06 15:02:30,630 - __main__ - INFO - Advertisement registered
+2021-03-06 15:02:49,533 - __main__ - INFO -  read: []
+2021-03-06 15:02:49,712 - __main__ - INFO -  read: []
+2021-03-06 15:05:11,350 - __main__ - INFO - Registering GATT application...
+2021-03-06 15:05:11,369 - __main__ - INFO - GATT application registered
+2021-03-06 15:05:11,371 - __main__ - INFO - Advertisement registered
+2021-03-06 15:05:18,178 - __main__ - INFO -  read: []
+2021-03-06 15:05:18,297 - __main__ - INFO -  read: []
+2021-03-06 15:12:33,233 - __main__ - INFO - Registering GATT application...
+2021-03-06 15:12:33,253 - __main__ - INFO - GATT application registered
+2021-03-06 15:12:33,256 - __main__ - INFO - Advertisement registered
+2021-03-06 15:12:50,302 - __main__ - INFO -  read: []
+2021-03-06 15:12:50,422 - __main__ - INFO -  read: []
+2021-03-06 15:22:42,751 - __main__ - INFO - Registering GATT application...
+2021-03-06 15:22:42,770 - __main__ - INFO - GATT application registered
+2021-03-06 15:22:42,775 - __main__ - INFO - Advertisement registered
+2021-03-06 15:22:57,293 - __main__ - INFO -  read: []
+2021-03-06 15:22:57,413 - __main__ - INFO -  read: []
+2021-03-06 15:30:42,872 - __main__ - INFO - Registering GATT application...
+2021-03-06 15:30:42,910 - __main__ - INFO - GATT application registered
+2021-03-06 15:30:42,916 - __main__ - INFO - Advertisement registered
+2021-03-06 15:31:11,537 - __main__ - INFO -  read: []
+2021-03-06 15:31:11,657 - __main__ - INFO -  read: []
+2021-03-06 15:32:41,501 - __main__ - INFO - Registering GATT application...
+2021-03-06 15:32:41,527 - __main__ - INFO - GATT application registered
+2021-03-06 15:32:41,528 - __main__ - INFO - Advertisement registered
+2021-03-06 15:32:44,507 - __main__ - INFO -  read: []
+2021-03-06 15:32:44,627 - __main__ - INFO -  read: []
+2021-03-06 15:34:15,596 - __main__ - INFO - Registering GATT application...
+2021-03-06 15:34:15,611 - __main__ - INFO - GATT application registered
+2021-03-06 15:34:15,614 - __main__ - INFO - Advertisement registered
+2021-03-06 15:34:19,847 - __main__ - INFO -  read: []
+2021-03-06 15:34:19,967 - __main__ - INFO -  read: []
+2021-03-06 15:38:13,639 - __main__ - INFO - Registering GATT application...
+2021-03-06 15:38:13,674 - __main__ - INFO - GATT application registered
+2021-03-06 15:38:13,683 - __main__ - INFO - Advertisement registered
