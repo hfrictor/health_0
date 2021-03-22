@@ -35,8 +35,8 @@ CAMERA_FRAMERATE = 35
 #--------------------------------------------------------------------------------------------
 
 # Init firebase with your credentials
-cred = credentials.Certificate("/home/pi/Desktop/smarthealth-61305-firebase-adminsdk-q56q7-0613d4d2e1.json")
-initialize_app(cred, {'storageBucket': 'smarthealth-61305.appspot.com'})
+cred = credentials.Certificate("/home/pi/health_0/shi-71d53-firebase-adminsdk-ebq1d-dac5e85287.json")
+initialize_app(cred, {'storageBucket': 'shi-71d53.appspot.com'})
 #firebase_admin.initialize_app(cred)
 db = firestore.client()
 today = datetime.datetime.now()
@@ -125,12 +125,12 @@ def pictureFunc():
         
                 value = randint(0, 10000)
 
-                vs.camera.capture('/home/pi/Desktop/randomCaptures/picture%s.jpg' % value)
+                vs.camera.capture('/home/pi/Desktop/randomCaptures_001/picture%s.jpg' % value)
                 
                 #os.system("aplay /home/pi/Desktop/test.wav")
 
                 # Put your local file path
-                fileName = ('/home/pi/Desktop/randomCaptures/picture%s.jpg' % value)
+                fileName = ('/home/pi/Desktop/randomCaptures_001/picture%s.jpg' % value)
                 bucket = storage.bucket()
                 blob = bucket.blob(fileName)
                 blob.upload_from_filename(fileName)
